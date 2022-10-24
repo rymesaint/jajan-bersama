@@ -1,0 +1,23 @@
+:root {
+  --buy-button: #61b300;
+  --buy-background: #3a9613;
+}
+a.markdown-btn {
+    font-size: 40px;
+    font-family: inherit;
+    color: var(--entry);
+    background-color: var(--buy-button);
+    border-radius: 40px;
+    text-align: center;
+    padding: 5px 1em 5px 1em;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+  
+    &:hover,
+    &:active {
+      text-decoration: none;
+      background-color: var(--primary);
+      color: var(--buy-background);
+    }
+  }
