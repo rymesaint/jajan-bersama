@@ -58,9 +58,17 @@ Beberapa fungsi peningkatan, membuat Anda ingin Pergi ke mana pun Anda pergi, de
 
 !["Skuter Listrik Batre"](/skuter-listrik/4.jpeg#center)
 
-!["Skuter Listrik Batre 2"](/skuter-listrik/5.jpeg#center)
 
 Daya tahan baterai lithium lebih dari 15km, selalu mematuhi jaminan kinerja keselamatan, baterai impor dan masa pakai baterai super, bepergian ke batas kota.
 
+!["Skuter Listrik Batre 2"](/skuter-listrik/5.jpeg#center)
+
 {{< button href="https://shope.ee/3AWpQuM4dr" >}}Beli Sekarang{{< /button >}}
 
+!["Garansi Produk"](/garansi.png#center)
+
+✨After Sell Service✨
+
+Garansi pengembalian barang cacat pada saat pengiriman maksimal 14 hari setelah penerimaan barang.
+
+{{< button href="https://shope.ee/3AWpQuM4dr" >}}Cek Garansi{{< /button >}}
